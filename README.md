@@ -1,10 +1,10 @@
-# Flutter Puzzle Game: [Your Puzzle Theme - e.g., Eren Yeager Puzzle]
+# Flutter Puzzle Game: [Eren Yeager Puzzle]
 
 A simple and interactive puzzle game built with Flutter, demonstrating drag-and-drop functionality and basic state management. This application allows users to solve a [number of pieces, e.g., 4-piece] jigsaw puzzle by dragging pieces to their correct target locations.
 
 ##  Demo
 
-**(https://www.linkedin.com/posts/sonia-alr7ini)**
+**([Demo video LinkedIn](https://www.linkedin.com/posts/sonia-alr7ini-663832325_fluttermonters3-flutter-widgets-activity-7379169209982877697-9d8B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIrtCsB0oAZm6zxlKyjd2o22jM7Q4TaxPU))**
 
 ## Features
 
