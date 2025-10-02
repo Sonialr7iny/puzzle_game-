@@ -4,7 +4,7 @@ A simple and interactive puzzle game built with Flutter, demonstrating drag-and-
 
 ##  Demo
 
-**([https://www.linkedin.com/posts/sonia-alr7ini](https://www.linkedin.com/posts/sonia-alr7ini-663832325_fluttermonters3-flutter-widgets-activity-7379169209982877697-9d8B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIrtCsB0oAZm6zxlKyjd2o22jM7Q4TaxPU))**
+**([Demo video ](https://www.linkedin.com/posts/sonia-alr7ini-663832325_fluttermonters3-flutter-widgets-activity-7379169209982877697-9d8B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIrtCsB0oAZm6zxlKyjd2o22jM7Q4TaxPU))**
 
 ## Features
 
